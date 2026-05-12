@@ -1,0 +1,68 @@
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Git
+.git/
+.gitignore
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Node / frontend (if present)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data / large artifacts
+*.csv
+*.tsv
+*.parquet
+*.db
+*.sqlite
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+
+# Media files (if not needed in image)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mp3
+*.wav
+
+# OS / misc
+.DS_Store
+Thumbs.db

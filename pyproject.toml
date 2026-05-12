@@ -1,0 +1,11 @@
+[project]
+name = "entriprise-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fake-useragent>=2.2.0",
+    "motor>=3.7.1",
+    "redis>=7.4.0",
+]

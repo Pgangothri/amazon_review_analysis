@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+playwright
+huggingface_hub
+scikit-learn
+requests
+lxml
+python-dotenv
+redis
